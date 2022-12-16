@@ -3,10 +3,6 @@ package pkg2dgame;
 import Object.Obj;
 import Object.Obj_hole;
 
-import Object.Obj_mainDoor;
-
-import Object.Obj_tembok;
-
 public class Asset {
     GamePanel gp;
 
