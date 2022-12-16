@@ -115,7 +115,7 @@ public class UI {
             
             e.getStackTrace();
         }
-        String text = "MAZE GAME";
+        String text = "DARK MAZE";
         x = getXValue(text) - 80;
         y = gp.tilesize * 5;
         g2.setFont(new Font("TimesRoman", Font.BOLD, 38));
