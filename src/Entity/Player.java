@@ -1,5 +1,6 @@
 package Entity;
 
+//
 import Tiles.TileManager;
 import java.awt.Color;
 import java.awt.Graphics2D;
